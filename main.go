@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/kamilsalikhov75/app/calendar"
-	"github.com/kamilsalikhov75/app/cmd"
-	"github.com/kamilsalikhov75/app/storage"
+	"github.com/kamilsalikhov75/go-calendar/calendar"
+	"github.com/kamilsalikhov75/go-calendar/cmd"
+	"github.com/kamilsalikhov75/go-calendar/storage"
 )
 
 func main() {

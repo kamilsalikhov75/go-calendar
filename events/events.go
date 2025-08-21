@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/google/shlex"
-	"github.com/kamilsalikhov75/app/reminder"
+	"github.com/kamilsalikhov75/go-calendar/reminder"
 )
 
 type Event struct {

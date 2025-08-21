@@ -3,8 +3,8 @@ package calendar
 import (
 	"errors"
 
-	"github.com/kamilsalikhov75/app/events"
-	"github.com/kamilsalikhov75/app/storage"
+	"github.com/kamilsalikhov75/go-calendar/events"
+	"github.com/kamilsalikhov75/go-calendar/storage"
 )
 
 type Calendar struct {

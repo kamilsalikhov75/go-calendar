@@ -7,10 +7,10 @@ import (
 
 	"github.com/c-bata/go-prompt"
 	"github.com/google/shlex"
-	"github.com/kamilsalikhov75/app/calendar"
-	"github.com/kamilsalikhov75/app/events"
-	"github.com/kamilsalikhov75/app/logger"
-	"github.com/kamilsalikhov75/app/storage"
+	"github.com/kamilsalikhov75/go-calendar/calendar"
+	"github.com/kamilsalikhov75/go-calendar/events"
+	"github.com/kamilsalikhov75/go-calendar/logger"
+	"github.com/kamilsalikhov75/go-calendar/storage"
 )
 
 type Cmd struct {

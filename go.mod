@@ -1,4 +1,4 @@
-module github.com/kamilsalikhov75/app
+module github.com/kamilsalikhov75/go-calendar
 
 go 1.24.5
 
